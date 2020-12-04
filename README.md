@@ -1,6 +1,6 @@
-# FonoEducarApp
+# Proyecto base para angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
+Template para inciar un proyecto angular con lazyloading [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
 ## Development server
 
